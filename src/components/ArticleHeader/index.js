@@ -13,7 +13,7 @@ const PostHeader = styled.div`
   p {
     color: #666d71;
     display: block;
-    font-size: 1.6em;
+    font-size: 1.7em;
     margin: 0;
     text-align: center;
   }

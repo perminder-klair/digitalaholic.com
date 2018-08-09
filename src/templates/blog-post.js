@@ -11,13 +11,14 @@ import FeaturedImage from '../components/FeaturedImage';
 import Share from '../components/Share';
 import PageNav from '../components/PageNav';
 import Button from '../components/Button';
+import Comments from '../components/Comments';
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pathContext;
-   
+
     let url = '';
     if (typeof window !== `undefined`) {
       url = window.location.href;
@@ -42,7 +43,7 @@ class BlogPostTemplate extends React.Component {
             <Share url={url} title={post.frontmatter.title} />
           )}
         </Card>
-        
+
         <PageNav>
           {previous && (
             <Button to={previous.fields.slug} rel="prev">
@@ -55,7 +56,9 @@ class BlogPostTemplate extends React.Component {
               {next.frontmatter.title} →
             </Button>
           )}
-        </PageNav>     
+        </PageNav>
+        <br /><br />
+        <Comments />
       </Container>
     )
   }
