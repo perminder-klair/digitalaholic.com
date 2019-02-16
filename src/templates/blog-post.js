@@ -8,6 +8,7 @@ import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import Signup from '../components/Signup';
 import Panel from '../components/Panel';
+import Comments from '../components/Comments';
 import { formatPostDate, formatReadingTime } from '../utils/helpers';
 import { rhythm, scale } from '../utils/typography';
 import {
@@ -201,7 +202,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              Overreacted
+              Digitalaholic
             </Link>
           </h3>
           <Bio />
@@ -232,6 +233,7 @@ class BlogPostTemplate extends React.Component {
             </ul>
           </nav>
         </aside>
+        <Comments />
       </Layout>
     );
   }

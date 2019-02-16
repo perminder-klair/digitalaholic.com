@@ -1,6 +1,5 @@
 ---
 title: Welcome to DigitalAholic
-spoiler: Welcome to DigitalAholic
 date: "2014-04-21"
 featuredImage: ./featured.jpg
 ---
