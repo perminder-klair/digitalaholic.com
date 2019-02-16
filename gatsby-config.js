@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'DigitalAholic',
+    author: 'Parminder Klair',
+    description:
+      'Personal blog by Parminder Klair. I explain with words and code.',
+    siteUrl: 'https://www.digitalaholic.com',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@pinku1',
     },
   },
   pathPrefix: '/',
@@ -112,8 +113,8 @@ module.exports = {
                     node {
                       excerpt(pruneLength: 250)
                       html
-                      fields { 
-                        slug   
+                      fields {
+                        slug
                       }
                       frontmatter {
                         title
@@ -126,7 +127,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: "Parminder Klair's Digitalaholic Blog RSS Feed",
           },
         ],
       },
@@ -134,8 +135,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `Digitalaholic`,
+        short_name: `Digitalaholic`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,
