@@ -1,3 +1,9 @@
+---
+title: Creating Static E-commerce site with GatsbyJs
+date: "2018-06-10"
+spoiler: Blazing fast static e-commerce site with payment integration
+---
+
 So, a few days ago I saw tweet from Kayle Gill about building static e-commerce site using GatsbyJs. That time I was in process of building an e-commerce website for my wife using NextJs (which is also awesome!).
 
 Instead of building the site with NextJs I gave GatsbyJs a try. Within 3 days from Sketch design to the Live site, I made the site live. After that I tweeted about it and found that people are really interested in it.
