@@ -9,8 +9,8 @@ exports.createPages = ({ graphql, actions }) => {
 
   // Oops
   createRedirect({
-    fromPath: '/zh_TW/things-i-dont-know-as-of-2018/',
-    toPath: '/zh-hant/things-i-dont-know-as-of-2018/',
+    fromPath: '/why-isnt-x-a-hook',
+    toPath: '/migrate-to-gatsbyjs',
     isPermanent: true,
     redirectInBrowser: true,
   });

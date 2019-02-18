@@ -5,4 +5,4 @@ spoiler: Just because we can, doesn’t mean we should.
 ---
 
 Finally we moved to GatsbyJs as blogging platform. Might help to re-up this blog.
-Expect more stuff soon!
+Expect more stuff soon! We came long way writing [first post back in 2014](/welcome-to-digitalaholic/)
