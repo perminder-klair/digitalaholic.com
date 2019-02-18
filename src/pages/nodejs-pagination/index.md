@@ -1,6 +1,7 @@
 ---
 title: Simple NodeJs Pagination
 date: "2014-07-12"
+spoiler: Simple example tutorial about how to crate pagination
 ---
 
 This is really simple example tutorial about how to crate pagination in NodeJs Application (it also covers ExpressJs Framework).

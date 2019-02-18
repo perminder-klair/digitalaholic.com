@@ -1,6 +1,7 @@
 ---
 title: How to Setup Cordova AngularJs App
 date: "2014-07-21"
+spoiler: Setup and build simple AngularJs and Cordova App.
 ---
 
 In this tutoral, I am going to show how to setup and build simple AngularJs and Cordova App.

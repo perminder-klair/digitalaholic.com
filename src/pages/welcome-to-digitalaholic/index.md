@@ -2,6 +2,7 @@
 title: Welcome to DigitalAholic
 date: "2014-04-21"
 featuredImage: ./featured.jpg
+spoiler: We're live! Nice.
 ---
 
 We're live! Nice.

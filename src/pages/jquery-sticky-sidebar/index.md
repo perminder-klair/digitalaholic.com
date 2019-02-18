@@ -1,6 +1,7 @@
 ---
 title: jQuery Sticky Sidebar
 date: "2014-07-01"
+spoiler: Create sticky side bar for a website
 ---
 
 In this tutorial I am going to show , how can we create sticky side bar for a website. We can use this sidebar as shoping cart details or something like that.

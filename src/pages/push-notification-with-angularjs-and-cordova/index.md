@@ -1,6 +1,7 @@
 ---
 title: Push Notification with AngularJs and Cordova
 date: "2014-08-21"
+spoiler: Tutorial you will learn How to setup Push Notification Server
 ---
 
 In this tutorial you will learn How to setup Push Notification Server for Apple and Google Cloud

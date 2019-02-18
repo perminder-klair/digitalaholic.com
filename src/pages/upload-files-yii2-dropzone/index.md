@@ -1,6 +1,7 @@
 ---
 title: How to upload files using Yii2 and DropZone.Js
 date: "2014-06-30"
+spoiler: As Yii2 is almost going to ready for production but still in development
 ---
 
 As Yii2 is almost going to ready for production but still in development. It is not very easy to find an upload extention for Yii2 yet. So, I have ported amazing [DropZone.Js](http://www.dropzonejs.com/)  as an [Yii2 DropZone](https://github.com/perminder-klair/yii2-dropzone) Extention.

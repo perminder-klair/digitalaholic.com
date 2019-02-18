@@ -1,6 +1,7 @@
 ---
 title: How to create music player for AngularJs
 date: "2014-06-29"
+spoiler: Create music player for AngularJs
 ---
 
 In this tutorial I am going to show you how can we create music player for AngularJs. I have created a special AngularJs module called [angular-soundmanager2](https://github.com/perminder-klair/angular-soundmanager2) for sake of this tutorial which means difficult work is already done for you!

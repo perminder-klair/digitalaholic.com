@@ -1,6 +1,7 @@
 ---
 title: How to Install FFMPEG on Ubuntu 14.04 and Mac
 date: "2014-08-26"
+spoiler: Install FFMPEG easily on Ubuntu 14.04 and Mac OS X
 ---
 # How to Install FFMPEG
 
