@@ -1,12 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'DigitalAholic',
+    title: 'DigitalAholic.com',
     author: 'Parminder Klair',
     description:
-      'Personal blog by Parminder Klair. I explain with words and code.',
+      'DigitalAholic is a web and application development blog covering development, programming and digital tech.',
     siteUrl: 'https://www.digitalaholic.com',
     social: {
       twitter: '@pinku1',
+      github: 'perminder-klair',
+      linkedin: 'http://www.linkedin.com/pub/parminder-singh/3a/352/67b',
+      website: 'https://www.klair.co',
     },
   },
   pathPrefix: '/',
@@ -57,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-130227707-1`,
+        trackingId: `UA-1390187-24`,
       },
     },
     {
