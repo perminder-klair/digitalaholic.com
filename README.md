@@ -1,5 +1,7 @@
 # [digitalaholic.com](https://www.digitalaholic.com/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c0b15f3-8813-4efc-b1dd-3b557c1b0b57/deploy-status)](https://app.netlify.com/sites/digitalaholic/deploys)
+
 My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devblog/).
