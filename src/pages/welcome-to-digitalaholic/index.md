@@ -16,3 +16,5 @@ Any questions or queries feel free to comment on realted post!
 Cheers!
 In this tutoral, I am going to show how to setup and build simple AngularJs and Cordova App.
 We will cover both Android app developement and iOS app development.
+
+By the way, I am editing this post from my iPad Pro using awesome Working Copy and iA Writer! :)
