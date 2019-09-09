@@ -30,7 +30,7 @@ class BlogIndexTemplate extends React.Component {
             <Panel>
               These articles have been{' '}
               <a
-                href="https://github.com/perminder-klair/digitalaholic.com#contributing-translations"
+                href="https://github.com/perminder-klair/blog.klair.co#contributing-translations"
                 target="_blank"
                 rel="noopener noreferrer"
               >

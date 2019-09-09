@@ -18,7 +18,7 @@ import {
 } from '../utils/i18n';
 
 const GITHUB_USERNAME = 'perminder-klair';
-const GITHUB_REPO_NAME = 'digitalaholic.com';
+const GITHUB_REPO_NAME = 'blog.klair.co';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;

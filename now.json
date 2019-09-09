@@ -18,7 +18,7 @@
       "headers": { "cache-control": "public, max-age=0, must-revalidate" }
     }
   ],
-  "alias": "digitalaholic.com",
+  "alias": "www.klair.co",
   "builds": [
     { "use": "@now/static-build", "src": "package.json", "config": { "distDir": "public" } }
   ]

@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'DigitalAholic.com',
+    title: 'blog.klair.co',
     author: 'Parminder Klair',
     description:
-      'DigitalAholic is a web and application development blog covering development, programming and digital tech.',
-    siteUrl: 'https://www.digitalaholic.com',
+      'This is a web and application development blog covering development, programming and digital tech.',
+    siteUrl: 'https://blog.klair.co',
     social: {
       twitter: '@pinku1',
       github: 'perminder-klair',
@@ -130,7 +130,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Parminder Klair's Digitalaholic Blog RSS Feed",
+            title: "Parminder Klair's Blog RSS Feed",
           },
         ],
       },
@@ -138,8 +138,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Digitalaholic`,
-        short_name: `Digitalaholic`,
+        name: `Parminder Klair Blog`,
+        short_name: `Parminder Klair Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,

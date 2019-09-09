@@ -1,13 +1,13 @@
 {
-  "name": "digitalaholic",
+  "name": "blog.klair.co",
   "private": true,
-  "description": "DigitalAholic",
+  "description": "Blog for Parminder Klair",
   "version": "1.0.0",
   "author": "Parminder Klair <perminder.klair@gmail.com>",
   "bugs": {
-    "url": "https://github.com/perminder-klair/digitalaholic.com/issues"
+    "url": "https://github.com/perminder-klair/blog.klair.co/issues"
   },
-  "homepage": "https://www.digitalaholic.com",
+  "homepage": "https://github.com/perminder-klair/blog.klair.co",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
