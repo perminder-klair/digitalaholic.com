@@ -1,0 +1,45 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["eslint:recommended", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "env": { "browser": true, "node": true, "es6": true, "jest": true },
+  "settings": {
+    "react": { "version": "detect" }
+  },
+  "overrides": [
+    {
+      "files": ["**/*.ts", "**/*.tsx"],
+      "parser": "@typescript-eslint/parser",
+      "extends": [
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:jsx-a11y/recommended",
+        "prettier/@typescript-eslint",
+        "prettier/react",
+        "plugin:prettier/recommended",
+        "plugin:react/recommended",
+        "plugin:testing-library/recommended",
+        "plugin:testing-library/react"
+      ],
+      "plugins": ["@typescript-eslint", "react", "testing-library"],
+      "rules": {
+        "object-curly-spacing": ["error", "always"],
+        "react/prop-types": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/no-explicit-any": "off"
+      },
+      "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module",
+        "ecmaFeatures": {
+          "jsx": true
+        },
+        "project": "./tsconfig.json",
+        "tsconfigRootDir": "./"
+      }
+    }
+  ]
+}

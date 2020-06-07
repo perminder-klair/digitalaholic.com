@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search/
+Disallow: /page/
+Disallow: /*/page/
+Disallow: /tags/
+Disallow: /api/
+
+Sitemap: https://blog.klair.co/sitemap.xml
