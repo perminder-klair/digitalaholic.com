@@ -18,7 +18,7 @@ function Copyright() {
         <a href={uri} rel="me">
           {name}
         </a>
-        <a href={`${github}/blog`}>
+        <a href={`${github}/blog.klair.co`}>
           <Icon name="GitHub" />
           View source
         </a>

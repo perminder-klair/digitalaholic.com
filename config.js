@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Parminder Klair',
+  siteTitle: 'Klair',
   siteTitleShort: 'Blog',
-  siteDescription: 'Blog of Parminder Klair',
+  siteDescription: 'Blog by Parminder Klair',
   siteUrl: 'https://blog.klair.co',
   themeColor: '#e7eef4',
   backgroundColor: '#e7eef4',
